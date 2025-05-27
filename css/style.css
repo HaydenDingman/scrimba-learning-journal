@@ -106,7 +106,7 @@ header {
 /* FEATURED CARD */
 
 .featured-card {
-    background-image: url("./images/laptop.png");
+    background-image: url("../images/laptop.png");
     background-size: cover;
     background-position: center;
 }
@@ -384,7 +384,7 @@ hr {
     }
     
     .recent-posts img {
-        height: 20vh;
+        height: 30vh;
     }
     
     .author-info {
